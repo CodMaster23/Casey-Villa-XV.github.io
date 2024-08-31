@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
+          'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill="none" height="34" style="fill: none;" viewBox="0 0 34 34" width="34" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+><rect fill="url(#a)" height="34" rx="17" width="34"
+  /><g id="change1_1"
+  ><path clip-rule="evenodd" d="M17 8C12.0294 8 8 12.0294 8 17C8 19.3862 8.92862 21.5555 10.4442 23.1662C11.1091 21.8795 12.4518 21 14 21H20C21.5482 21 22.8909 21.8795 23.5558 23.1662C25.0714 21.5555 26 19.3862 26 17C26 12.0294 21.9706 8 17 8ZM21.9426 24.5225C21.7286 23.6485 20.94 23 20 23H14C13.06 23 12.2714 23.6485 12.0574 24.5225C13.476 25.4565 15.1745 26 17 26C18.8255 26 20.524 25.4565 21.9426 24.5225ZM6 17C6 10.9249 10.9249 6 17 6C23.0751 6 28 10.9249 28 17C28 23.0751 23.0751 28 17 28C10.9249 28 6 23.0751 6 17ZM17 12C15.3431 12 14 13.3431 14 15C14 16.6569 15.3431 18 17 18C18.6569 18 20 16.6569 20 15C20 13.3431 18.6569 12 17 12ZM12 15C12 12.2386 14.2386 10 17 10C19.7614 10 22 12.2386 22 15C22 17.7614 19.7614 20 17 20C14.2386 20 12 17.7614 12 15Z" fill="#fff" fill-rule="evenodd"
+  /></g
+  ><defs
+  ><linearGradient gradientUnits="userSpaceOnUse" id="a" x1="7.48" x2="19.72" y1="3.944" y2="38.08"
+    ><stop stop-color="#8F00FF"
+      /><stop offset=".342" stop-color="#DB00FF"
+      /><stop offset=".876" stop-color="#FFC700"
+      /><stop offset="1" stop-color="#fff"
+    /></linearGradient
+  ></defs
+></svg
+>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
+          'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill="none" height="34" style="fill: none;" viewBox="0 0 34 34" width="34" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+><rect fill="url(#a)" height="34" rx="17" width="34"
+  /><g id="change1_1"
+  ><path clip-rule="evenodd" d="M13 7C9.68629 7 7 9.68629 7 13V21C7 24.3137 9.68629 27 13 27H21C24.3137 27 27 24.3137 27 21V13C27 9.68629 24.3137 7 21 7H13ZM9 13C9 10.7909 10.7909 9 13 9H21C23.2091 9 25 10.7909 25 13V21C25 23.2091 23.2091 25 21 25H13C10.7909 25 9 23.2091 9 21V13ZM18 13C18 12.4477 17.5523 12 17 12C16.4477 12 16 12.4477 16 13V16H13C12.4477 16 12 16.4477 12 17C12 17.5523 12.4477 18 13 18H16V21C16 21.5523 16.4477 22 17 22C17.5523 22 18 21.5523 18 21V18H21C21.5523 18 22 17.5523 22 17C22 16.4477 21.5523 16 21 16H18V13Z" fill="#FFFCFC" fill-rule="evenodd"
+  /></g
+  ><defs
+  ><linearGradient gradientUnits="userSpaceOnUse" id="a" x1="7.48" x2="19.72" y1="3.944" y2="38.08"
+    ><stop stop-color="#8F00FF"
+      /><stop offset=".342" stop-color="#DB00FF"
+      /><stop offset=".876" stop-color="#FFC700"
+      /><stop offset="1" stop-color="#fff"
+    /></linearGradient
+  ></defs
+></svg
+>
